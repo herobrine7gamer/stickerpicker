@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "tux_pics.json"
+  ],
+  "homeserver_url": "https://matrix-client.matrix.org"
+}
