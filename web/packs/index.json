@@ -1,6 +1,8 @@
 {
   "packs": [
-    "tux_pics.json"
+    "tux_pics.json",
+    "UBportsYumi.json",
+    "thepixelcats.json"
   ],
   "homeserver_url": "https://matrix-client.matrix.org"
 }
